@@ -1,0 +1,8 @@
+.imagen{
+	width:25%;
+    display: block;
+	margin:0 auto;
+	max-width:50%;
+	position:relative;
+	top:-90px;
+}

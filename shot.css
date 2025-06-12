@@ -1,0 +1,9 @@
+.imagen{
+	width:45%;
+    display: block;
+	margin:0 auto;
+	max-width:50%;
+	position:relative;
+	top:-40px;
+	left:-90px;
+}

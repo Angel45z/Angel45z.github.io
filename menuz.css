@@ -1,0 +1,13 @@
+.menuz{			
+ border:7px solid black;
+	   td{
+  color: black;
+}
+
+:hover{
+  color: red;
+}
+
+a:active{
+  color: blue;
+}

@@ -1,0 +1,26 @@
+.menu{
+      background-color: transparent; 
+	  border:7px solid black;
+	  text-shadow: 5px  5px 5px black,
+               5px  1px 5px black,
+              -1px  5px 5px black,
+               5px -2px 5px black;
+	 td{
+  color: black;
+}
+
+:hover{
+  color: red;
+}
+
+a:active{
+  color: blue;
+}
+	  
+	  
+	 
+	  
+}
+
+
+	
